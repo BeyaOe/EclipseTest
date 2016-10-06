@@ -19,8 +19,8 @@ public class TestProgramm {
 
 	public double substract(double a, double b) {
 
-		double e = a - b;
-		return e;
+		double f = a - b;
+		return f;
 	}
 
 }
