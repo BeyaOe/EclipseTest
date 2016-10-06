@@ -22,7 +22,16 @@ public class MathTest {
 
 	{
 
-		Assert.assertEquals(12, objectUnderTest.multiply(new Double(3), new Double(4)));
+		Assert.assertEquals(12.0, objectUnderTest.multiply(new Double(3), new Double(4)));
+
+	}
+
+	@Test
+	public void TestSubtract()
+
+	{
+
+		Assert.assertEquals(1, objectUnderTest.substract(new Double(4), new Double(3)));
 
 	}
 
