@@ -4,10 +4,12 @@ public class TestProgramm {
 
 	double a;
 	double o;
+	double z;
 
 	public double add(double a, double o) {
 
 		double c = a + o;
+		System.out.println("Hallo du schoenes Programm");
 		return c;
 	}
 
