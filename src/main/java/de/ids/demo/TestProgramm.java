@@ -28,4 +28,8 @@ public class TestProgramm {
 		return f;
 	}
 
+	public String printOk() {
+		return "ok";
+	}
+
 }
