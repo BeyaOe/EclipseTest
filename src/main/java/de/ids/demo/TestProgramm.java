@@ -17,4 +17,10 @@ public class TestProgramm {
 		return d;
 	}
 
+	public double substract(double a, double b) {
+
+		double e = a - b;
+		return e;
+	}
+
 }
