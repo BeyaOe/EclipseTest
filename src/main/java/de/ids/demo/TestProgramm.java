@@ -22,7 +22,7 @@ public class TestProgramm {
 	public double substract(double a, double b) {
 
 		double f = a - b;
-		System.out.println("Hallo Oezen!");
+		System.out.println("Hallo Oezen! Ich habe einen schönen Namen");
 		return f;
 	}
 
