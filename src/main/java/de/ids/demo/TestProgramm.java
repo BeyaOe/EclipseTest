@@ -3,11 +3,11 @@ package de.ids.demo;
 public class TestProgramm {
 	
 	double a;
-	double b;
+	double o;
 	
-	public double addition(double a, double b) {
+	public double addition(double a, double o) {
 		
-		double c = a+b;
+		double c = a+o;
 		return c;
 	}
 
