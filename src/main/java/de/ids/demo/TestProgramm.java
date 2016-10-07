@@ -24,6 +24,9 @@ public class TestProgramm {
 
 		System.out.println("Hallo Oezen! Ich habe einen schönen Namen");
 
+		System.out.println("Es bedeutet Sehnsucht");
+		System.out.println("LaLaLaa");
+
 		return f;
 	}
 
