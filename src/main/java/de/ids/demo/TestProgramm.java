@@ -23,6 +23,7 @@ public class TestProgramm {
 
 		double f = a - b;
 		System.out.println("Hallo Oezen! Ich habe einen schönen Namen");
+		System.out.println("Es bedeutet Sehnsucht");
 		return f;
 	}
 
