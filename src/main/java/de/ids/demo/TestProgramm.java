@@ -4,7 +4,6 @@ public class TestProgramm {
 
 	double a;
 	double o;
-	
 
 	public double add(double a, double o) {
 
@@ -22,13 +21,10 @@ public class TestProgramm {
 
 		double f = a - b;
 
-
-		System.out.println("Hallo Oezen!Lebe lang!");
+		System.out.println("Hallo Oezen! Ich habe einen schönen Namen");
 		System.out.println("Es bedeutet Sehnsucht");
 		System.out.println("LaLaLaa");
 
-
-		System.out.println();
 		return f;
 	}
 
