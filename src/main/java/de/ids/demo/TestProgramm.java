@@ -2,26 +2,39 @@ package de.ids.demo;
 
 public class TestProgramm {
 
-	double a;
-	double o;
+	int a;
+	int o;
+	int z;
 
-	public double add(double a, double o) {
+	public int add(int a, int o) {
 
-		double c = a + o;
+		int c = a + o;
+		System.out.println("Hallo du schoenes Programm");
 		return c;
 	}
 
-	public double multiply(double a, double b) {
+	public int multiply(int a, int b) {
 
-		double d = a * b;
+		int d = a * b;
 		return d;
 	}
 
-	public double substract(double a, double b) {
+	public int substract(int a, int b) {
 
-		double f = a - b;
-		System.out.println();
+		int f = a - b;
+
+		System.out.println("Hallo Oezen! Ich habe einen schönen Namen");
+
 		return f;
+	}
+
+	/*
+	 * dann schau dir das mal an
+	 * 
+	 * 
+	 */
+	public String printOk() {
+		return "ok";
 	}
 
 }
