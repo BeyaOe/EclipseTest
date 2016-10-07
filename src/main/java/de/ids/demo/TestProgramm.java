@@ -4,7 +4,6 @@ public class TestProgramm {
 
 	int a;
 	int o;
-	int z;
 
 	public int add(int a, int o) {
 
@@ -37,7 +36,7 @@ public class TestProgramm {
 		return "ok";
 	}
 	/*
-	 * test
+	 * test und nochmal test
 	 */
 
 }
