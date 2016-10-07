@@ -9,6 +9,7 @@ public class TestProgramm {
 
 		int c = a + o;
 		System.out.println("Hallo du schoenes Programm");
+		System.out.println("Hallo du NICHT schoenes Programm");
 		return c;
 	}
 
