@@ -4,6 +4,10 @@ public class TestProgramm {
 
 	double a;
 	double o;
+<<<<<<< HEAD
+=======
+	
+>>>>>>> branch 'master' of https://github.com/BeyaOe/EclipseTest
 
 	public double add(double a, double o) {
 
