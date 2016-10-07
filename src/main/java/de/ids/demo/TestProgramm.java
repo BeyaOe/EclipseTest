@@ -4,7 +4,7 @@ public class TestProgramm {
 
 	double a;
 	double o;
-	double z;
+	
 
 	public double add(double a, double o) {
 
