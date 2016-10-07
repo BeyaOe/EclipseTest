@@ -9,6 +9,8 @@ public class TestProgramm {
 
 		int c = a + o;
 		System.out.println("Hallo du schoenes Programm");
+		System.out.println("Hallo du NICHT schoenes Programm");
+
 		return c;
 	}
 
@@ -23,11 +25,21 @@ public class TestProgramm {
 		int f = a - b;
 
 		System.out.println("Hallo Oezen! Ich habe einen schönen Namen");
+<<<<<<< HEAD
 
 		System.out.println("Es bedeutet Sehnsucht");
 		System.out.println("LaLaLaa");
 
+=======
+		System.out.println("Es bedeutet Sehnsucht");
+		System.out.println("LaLaLaa");
+
+>>>>>>> branch 'master' of https://github.com/BeyaOe/EclipseTest
 		return f;
+	}
+
+	public String printOk() {
+		return "ok";
 	}
 
 	/*
@@ -35,11 +47,4 @@ public class TestProgramm {
 	 * 
 	 * 
 	 */
-	public String printOk() {
-		return "ok";
-	}
-	/*
-	 * test und nochmal test
-	 */
-
 }
